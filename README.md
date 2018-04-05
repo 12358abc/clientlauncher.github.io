@@ -1,1 +1,1 @@
-# ClientLauncher Get Hwid
+# ClientLauncher Get Hwid's Page
